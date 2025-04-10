@@ -43,7 +43,8 @@ body {
     justify-content: center;
     gap: 10px;
     flex-wrap: wrap;
-  }
+    width: 100%;
+}
   
   .metric {
     border-radius: 8px;

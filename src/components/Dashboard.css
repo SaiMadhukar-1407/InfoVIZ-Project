@@ -27,6 +27,12 @@ body {
     margin-bottom: 10px;
   }
 
+  h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+
   label {
     font-size: 12px;
     color: #333;
